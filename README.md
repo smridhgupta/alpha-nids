@@ -76,6 +76,19 @@ It shows Alerts in real time.
 # Conclusion
 Alpha-NIDS will serve as a lightweight network intrusion detection tool designed to monitor network traffic, identify suspicious activities, and alert administrators either through logs or email notifications. The real-time visualization provides a quick overview of the network's state, making it easier for administrators to gauge potential threats. The whitelisting mechanism ensures that known devices can operate without triggering false positives.
 
+# Usage
+Download the Binary and config file from Releases and run anids.sh in terminal.
+
+# Donate
+. BTC: bc1qykzfyjdkyck5v4sd46j4y8ra6mgltvu6zqu69s
+
+# Warning
+This project is only for educational purposes. I am not responsible for any misuse!
+
+# Contact
+smridhgupta@proton.me
+
+Developed by @smridhgupta
 
 
 
