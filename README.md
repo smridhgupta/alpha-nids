@@ -16,7 +16,7 @@ Set the MAC addresses of the whitelisted devices.
 Set the SMTP server config.
 
 # Traffic Monitoring
-Can monitor packets that match certain criteria, such as being of type IP, ARP, ICMP, UDP, or specific TCP ports (53, 443, 8443, 80, 8080).
+Can monitor packets that match certain criteria, such as being of type IP, ARP, ICMP, UDP, or specific TCP ports (such as 53, 443, 8443, 80, 8080).
 
 Packet counts per IP are maintained to detect potential high-traffic anomalies.
 
