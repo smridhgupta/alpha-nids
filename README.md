@@ -68,11 +68,10 @@ It shows Alerts in real time.
 Alpha-NIDS will serve as a lightweight network intrusion detection tool designed to monitor network traffic, identify suspicious activities, and alert administrators either through logs or email notifications. The real-time visualization provides a quick overview of the network's state, making it easier for administrators to gauge potential threats. The whitelisting mechanism ensures that known devices can operate without triggering false positives.
 
 # Usage
-1. Download the Binary named "anids" and "config.ini" from Releases.
+1. Download the Binary named "anids.pyc" and "config.ini" from Releases.
 2. Put both the files in the same folder.
 3. Fill in the configuration in the config file.
-4. Run command-  chmod +x anids
-5. Run command- ./anids
+4. Run command-  python3 anids.pyc
 
 # Configuration & Setup
 Setup the configuration in ‘config.ini’ file.
