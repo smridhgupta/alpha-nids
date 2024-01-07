@@ -1,5 +1,3 @@
-# Releasing on 8th Jan, 2024
-
 # Alpha-NIDS
 A lightweight Network Intrusion Detection Tool.
 
