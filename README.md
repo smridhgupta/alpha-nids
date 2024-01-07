@@ -7,14 +7,6 @@ A lightweight Network Intrusion Detection Tool.
 Alpha-NIDS monitors network in real-time for malicious activity or policy violations.
 It monitors , analyzes and alerts the network admin based on suspicious activities within network traffic on different network layers.
 
-# Configuration & Setup
-Setup the configuration in ‘config.ini’ file.
-
-Set the threshold.
-Set emails alerts to “True” or “False”.
-Set the MAC addresses of the whitelisted devices.
-Set the SMTP server config.
-
 # Traffic Monitoring
 Can monitor packets that match certain criteria, such as being of type IP, ARP, ICMP, UDP, or specific TCP ports (such as 53, 443, 8443, 80, 8080).
 
@@ -28,7 +20,6 @@ Alerts if a device is not in the whitelist.
 
 2. HTTP packets:
 Checks for malicious strings in the host or URI and counts the number of GET requests to send alert in order to prevent DDOS.
-
 
 3. ICMP packets:
 Detects and logs a high number of ICMP packets and sends alert.
@@ -77,7 +68,18 @@ It shows Alerts in real time.
 Alpha-NIDS will serve as a lightweight network intrusion detection tool designed to monitor network traffic, identify suspicious activities, and alert administrators either through logs or email notifications. The real-time visualization provides a quick overview of the network's state, making it easier for administrators to gauge potential threats. The whitelisting mechanism ensures that known devices can operate without triggering false positives.
 
 # Usage
-Download the Binary and config file from Releases and run anids.sh in terminal.
+1. Download the Binary named "anids" and "config.ini" from Releases.
+2. Put both the files in the same folder.
+3. Fill in the configuration in the config file.
+4. Run command-  chmod +x anids
+5. Run command- ./anids
+
+# Configuration & Setup
+Setup the configuration in ‘config.ini’ file.
+Set the threshold.
+Set emails alerts to “True” or “False”.
+Set the MAC addresses of the whitelisted devices.
+Set the SMTP server config.
 
 # Donate
 . BTC: bc1qykzfyjdkyck5v4sd46j4y8ra6mgltvu6zqu69s
