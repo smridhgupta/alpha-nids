@@ -71,7 +71,8 @@ Alpha-NIDS will serve as a lightweight network intrusion detection tool designed
 1. Download the Binary named "anids.py" and "config.ini" from Releases.
 2. Put both the files in the same folder.
 3. Fill in the configuration in the config file.
-4. Run command-  python3 anids.py
+4. Run command- pip3 install -r requirements.txt
+5. Run command-  python3 anids.py
 
 # Configuration & Setup
 Setup the configuration in ‘config.ini’ file.
