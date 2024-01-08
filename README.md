@@ -71,6 +71,9 @@ Alpha-NIDS will serve as a lightweight network intrusion detection tool designed
 3. Run command- pip3 install -r requirements.txt
 4. Run command-  python3 anids.py
 
+# NOTE
+The script has been tested on Linux.
+
 # Configuration & Setup
 Setup the configuration in ‘config.ini’ file.
 Set the threshold.
