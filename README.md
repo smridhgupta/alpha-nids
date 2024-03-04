@@ -82,11 +82,11 @@ Set the MAC addresses of the whitelisted devices.
 Set the SMTP server config.
 
 # Disclamer
-Smridh Gupta retains the copyright to the script uploaded on this repository. This script is provided for educational and informational purposes only. 
+The developer retains the copyright to the script uploaded on this repository. This script is provided for educational and informational purposes only. 
 
-Smridh Gupta makes no representations or warranties regarding the accuracy or completeness of the script. Users downloading or utilizing the script do so at their own risk and discretion. Smridh Gupta shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the script.
+The developer makes no representations or warranties regarding the accuracy or completeness of the script. Users downloading or utilizing the script do so at their own risk and discretion. The developer shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the script.
 
-By downloading or using the script, you agree to abide by the terms and conditions mentioned here. If you have any questions or need further information, please contact Smridh Gupta, Email- smridhgupta@proton.me.
+By downloading or using the script, you agree to abide by the terms and conditions mentioned here. If you have any questions or need further information, please contact the developer Smridh Gupta, Email- smridhgupta@proton.me.
 
 # Donate
 . BTC: bc1qykzfyjdkyck5v4sd46j4y8ra6mgltvu6zqu69s
