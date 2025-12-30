@@ -89,7 +89,8 @@ The developer makes no representations or warranties regarding the accuracy or c
 By downloading or using the script, you agree to abide by the terms and conditions mentioned here. If you have any questions or need further information, please contact the developer Smridh Gupta, Email- smridhgupta@proton.me.
 
 # Donate
-. BTC: bc1qykzfyjdkyck5v4sd46j4y8ra6mgltvu6zqu69s
+
+. XMR: 87SARF3f1LWLMec8mEBDcuiPUPYzyBz3CDcZSLas23hCCEvmcQDh36mhQ2QK22PbYTNMoozXFzsSTFz7nbZNsVUD3pmMNWd
 
 # Warning
 This project is only for educational purposes. I am not responsible for any misuse!
